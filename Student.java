@@ -14,7 +14,7 @@ public class Student extends Person{
     public void setYear(int year) { this.year = year; }
     public double getFee() { return fee; }
     public void setFee(double fee) { this.fee = fee; }
-    
+
     @Override
     public String toString() {
         return String.format("Student[%s, program=%s, year=%d, fee=%.2f]", 
