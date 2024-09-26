@@ -1,3 +1,5 @@
+// Nome: Matheus Angelo de Souza Santos
+// Nome: Leandro Felix Nunes
 public class TestBook {
     public static void main(String[] args) {
         // Cria e aloca o array de autores

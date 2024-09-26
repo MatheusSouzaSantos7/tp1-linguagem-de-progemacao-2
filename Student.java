@@ -1,3 +1,5 @@
+// Nome: Matheus Angelo de Souza Santos
+// Nome: Leandro Felix Nunes
 public class Student extends Person{
     private String program;
     private int year;

@@ -1,3 +1,5 @@
+// Nome: Matheus Angelo de Souza Santos
+// Nome: Leandro Felix Nunes
 public class Book {
     private String name;
     private Author[] authors;

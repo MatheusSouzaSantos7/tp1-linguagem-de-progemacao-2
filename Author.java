@@ -1,4 +1,5 @@
-// Nomes: Matheus Angelo e Leandro Felix
+// Nome: Matheus Angelo de Souza Santos
+// Nome: Leandro Felix Nunes
 public class Author {
     private String name, email;
     private char gender; // Deve conter 'm' ou 'f'

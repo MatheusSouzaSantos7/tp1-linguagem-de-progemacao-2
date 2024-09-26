@@ -1,9 +1,5 @@
-/*
-- Testar construtor.
-- Verificar o método toString().
-- Testar o Setter
-- Testar os Getters
-*/
+// Nome: Matheus Angelo de Souza Santos
+// Nome: Leandro Felix Nunes
 public class TestaAuthor {
     public static void main(String[] args) {
         Author author = new Author("Matheus", "matheus@gmail.com", 'm');

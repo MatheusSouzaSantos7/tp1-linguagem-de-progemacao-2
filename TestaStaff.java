@@ -1,3 +1,5 @@
+// Nome: Matheus Angelo de Souza Santos
+// Nome: Leandro Felix Nunes
 public class TestaStaff {
     public static void main(String[] args) {
         Staff staff = new Staff("Leandro", "Rua zero", "Sem escola", 2);

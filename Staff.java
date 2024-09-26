@@ -1,3 +1,5 @@
+// Nome: Matheus Angelo de Souza Santos
+// Nome: Leandro Felix Nunes
 public class Staff extends Person{
     private String school;
     private double pay;
